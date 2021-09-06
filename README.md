@@ -2,9 +2,9 @@
 
 
 ## Assumptions:
-i)   OKTA Token is present in an environment variable OKTA_ADMIN_TOKEN
-ii)  OKTA Org URL is present in an environment variable OKTA_ORG
-iii) You have Python3 and pip3 installed on your machine.
+i)   OKTA Token is present in an environment variable OKTA_ADMIN_TOKEN.  
+ii)  OKTA Org URL is present in an environment variable OKTA_ORG. 
+iii) You have Python3 and pip3 installed on your machine. 
 
 ## Envrionment:
 i) Clone this repo.
