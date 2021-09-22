@@ -1,6 +1,19 @@
 # okta-tech-assesment
 
 
+## Problem Statement:
+We would like you to demonstrate your ability to do some minor automation against the Core Okta API (https://developer.okta.com/docs/reference/core-okta-api/). To get started you will need to create an Okta Developer org ( https://developer.okta.com/docs/guides/quickstart/website/create-org/#create-your-org ), then get your Token in the Okta Admin from: Security > API > Tokens.
+ 
+Write the tool in any scripting language of your choice (Ex: Python, Shell, Ruby, etc) that completes the following tasks:
+ 
+* Use an Okta admin token via envvar
+* Create user.
+* Create Multiple Users
+* List all users in the Okta account with their First Name, Last Name, Username & Account Status
+* Delete user.
+ 
+-------------------------------------------------------------------------------------------------------
+
 ## Assumptions:
 i)   OKTA Token is present in an environment variable OKTA_ADMIN_TOKEN.  
 ii)  OKTA Org URL is present in an environment variable OKTA_ORG. 
